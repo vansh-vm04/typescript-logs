@@ -1,0 +1,20 @@
+# Node modules
+**/node_modules/
+
+#dist
+**/dist/
+
+# Environment variables
+**/.env
+
+# Build output
+client/dist/
+**/build/
+
+# Logs
+**/logs/
+**/*.log
+
+# Docker
+**/docker-data/
+**/mongo-data/
